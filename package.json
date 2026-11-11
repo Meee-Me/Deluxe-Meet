@@ -1,0 +1,12 @@
+{
+  "name": "deluxe-meet",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "test": "node tests/meet.test.mjs"
+  },
+  "devDependencies": {
+    "peer": "^1.0.2"
+  }
+}
